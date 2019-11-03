@@ -5,5 +5,8 @@ def create_data_set():
     labels=['A','A','B','B']
     return group,labels
 
+# create_data_set()
 
+def classify_1(in_x,data_set,label,k):
+    pass
 
